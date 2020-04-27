@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Planos/BETA.png</file>
+        <file>Planos/RENIONES.png</file>
+    </qresource>
+</RCC>
